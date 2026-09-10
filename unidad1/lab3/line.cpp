@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #line 100 "mi archivo falso "
 int main() {
