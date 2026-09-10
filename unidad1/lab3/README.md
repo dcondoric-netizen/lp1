@@ -1,4 +1,4 @@
-# ejercicios 
+# EJERCICIOS
 # include: 
 - Sirve para incluir librerías o archivos externos en tu código, dándote acceso a funciones ya escritas
 # define ;
